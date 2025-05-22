@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Coding\RELEARN\C#\MyCalculator\bin\Debug\net8.0-windows\MyCalculator.exe
+C:\Users\User\Desktop\Coding\RELEARN\C#\MyCalculator\bin\Debug\net8.0-windows\MyCalculator.deps.json
+C:\Users\User\Desktop\Coding\RELEARN\C#\MyCalculator\bin\Debug\net8.0-windows\MyCalculator.runtimeconfig.json
+C:\Users\User\Desktop\Coding\RELEARN\C#\MyCalculator\bin\Debug\net8.0-windows\MyCalculator.dll
+C:\Users\User\Desktop\Coding\RELEARN\C#\MyCalculator\bin\Debug\net8.0-windows\MyCalculator.pdb
+C:\Users\User\Desktop\Coding\RELEARN\C#\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.Form1.resources
+C:\Users\User\Desktop\Coding\RELEARN\C#\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Coding\RELEARN\C#\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Coding\RELEARN\C#\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Coding\RELEARN\C#\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.AssemblyInfo.cs
+C:\Users\User\Desktop\Coding\RELEARN\C#\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Coding\RELEARN\C#\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.dll
+C:\Users\User\Desktop\Coding\RELEARN\C#\MyCalculator\obj\Debug\net8.0-windows\refint\MyCalculator.dll
+C:\Users\User\Desktop\Coding\RELEARN\C#\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.pdb
+C:\Users\User\Desktop\Coding\RELEARN\C#\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.genruntimeconfig.cache
+C:\Users\User\Desktop\Coding\RELEARN\C#\MyCalculator\obj\Debug\net8.0-windows\ref\MyCalculator.dll
+C:\Users\User\Desktop\Coding\RELEARN\C#\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.Properties.Resources.resources
